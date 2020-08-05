@@ -1,0 +1,7 @@
+C:\project\closeport\bin\Debug\closeport.exe.config
+C:\project\closeport\bin\Debug\closeport.exe
+C:\project\closeport\bin\Debug\closeport.pdb
+C:\project\closeport\obj\Debug\closeport.csproj.CoreCompileInputs.cache
+C:\project\closeport\obj\Debug\closeport.exe
+C:\project\closeport\obj\Debug\closeport.pdb
+C:\project\closeport\obj\Debug\closeport.csprojAssemblyReference.cache
